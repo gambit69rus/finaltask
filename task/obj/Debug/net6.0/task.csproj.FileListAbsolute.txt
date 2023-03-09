@@ -1,0 +1,15 @@
+/Users/antonsosnin/Desktop/finaltask/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/antonsosnin/Desktop/finaltask/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonsosnin/Desktop/finaltask/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/antonsosnin/Desktop/finaltask/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/antonsosnin/Desktop/finaltask/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/antonsosnin/Desktop/finaltask/task/bin/Debug/net6.0/task
+/Users/antonsosnin/Desktop/finaltask/task/bin/Debug/net6.0/task.deps.json
+/Users/antonsosnin/Desktop/finaltask/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/antonsosnin/Desktop/finaltask/task/bin/Debug/net6.0/task.dll
+/Users/antonsosnin/Desktop/finaltask/task/bin/Debug/net6.0/task.pdb
+/Users/antonsosnin/Desktop/finaltask/task/obj/Debug/net6.0/task.dll
+/Users/antonsosnin/Desktop/finaltask/task/obj/Debug/net6.0/refint/task.dll
+/Users/antonsosnin/Desktop/finaltask/task/obj/Debug/net6.0/task.pdb
+/Users/antonsosnin/Desktop/finaltask/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/antonsosnin/Desktop/finaltask/task/obj/Debug/net6.0/ref/task.dll
